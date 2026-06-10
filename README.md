@@ -1,3 +1,3 @@
 # the-devvvu
 YO!
-author thedevvvu
+author-thedevvvu
